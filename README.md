@@ -22,7 +22,7 @@ Javascript
 - 📡 [**Wi-Fi File Manager**]
   Host a web file manager with your Pico WH via a custom Wi-Fi AP.
 
-- 🏛️ [**Flappy Monuments**](https://github.com/yourusername/project-name)  
+- 🏛️ [**Flappy Monuments**]
   A Unity remake of Flappy Bird with 30 Italian monuments in the background.
 
 ---
